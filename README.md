@@ -17,7 +17,8 @@ samples, guidance on mobile development, and a full API reference.
 
 # Screen Shot
 
-![Screenshot_1683471615](https://github.com/zezo-salah/ebtsamty-master/assets/125914687/e3c5633a-851d-4576-90b9-4f6f482d4f2b) -![Screenshot_1683471615](https://github.com/zezo-salah/ebtsamty-master/assets/125914687/2afc3e2c-259d-4d23-b5e7-6e3dce27bd0e)
+<img src="https://github.com/zezo-salah/ebtsamty-master/assets/125914687/d41b8979-c1b1-4bb5-acaa-afbab29cc3d8" width="350" height="550">   <img src="https://github.com/zezo-salah/ebtsamty-master/assets/125914687/398ba3f0-cd9c-4d65-a4a0-c667931262a6" width="350" height="550">
+
 
 
 
