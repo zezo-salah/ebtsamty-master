@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1055765530989",
+    "project_id": "ebtsamty-a9e18",
+    "storage_bucket": "ebtsamty-a9e18.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1055765530989:android:ca07ae56ac55303040f264",
+        "android_client_info": {
+          "package_name": "com.example.ebtsamty"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1055765530989-l3dr0cie11e95ohvc9qsifuohuapi2ja.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD64FWqeF4ph2Q6AJXl9qyFFVNhJA6HGSE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1055765530989-l3dr0cie11e95ohvc9qsifuohuapi2ja.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
